@@ -1,6 +1,9 @@
 # WeatherApp
 
-coba commit username=joy
-coba commit email sama tapi username tak ganti=ags
-konz
-kkkkkkkk
+static single web pages untuk mencari kondisi cuaca dan jam saat ini berdasarkan kota
+
+
+tech used: 
+    - html
+    - js (fetch api)
+    - public api (openweatherapi)
