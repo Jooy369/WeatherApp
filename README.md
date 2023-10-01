@@ -1,6 +1,6 @@
 # WeatherApp
 
-# static single web pages untuk mencari kondisi cuaca dan jam saat ini berdasarkan kota
+  static single web pages untuk mencari kondisi cuaca dan jam saat ini berdasarkan kota
 
 
 # tech used: 
